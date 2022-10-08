@@ -1,2 +1,2 @@
-# Homework-2
+# C# Homework-2
  Asal Sayıyı Bulan Program
